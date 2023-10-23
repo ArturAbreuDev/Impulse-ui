@@ -1,0 +1,136 @@
+{
+    "contrys": [
+        {
+            "id": 1,
+            "name": "Argentina",
+            "value": "Argentina",
+            "sigla3": "ARG"
+        },
+        {
+            "id": 2,
+            "name": "Bolivia",
+            "value": "Bolivia",
+            "sigla3": "BOL"
+        },
+        {
+            "id": 3,
+            "name": "Brasil",
+            "value": "Brasil",
+            "sigla3": "BRA"
+        },
+        {
+            "id": 4,
+            "name": "Chile",
+            "value": "Chile",
+            "sigla3": "CHL"
+        },
+        {
+            "id": 5,
+            "name": "Colombia",
+            "value": "Colombia",
+            "sigla3": "COL"
+        },
+        {
+            "id": 6,
+            "name": "Costa Rica",
+            "value": "Costa Rica",
+            "sigla3": "CRI"
+        },
+        {
+            "id": 7,
+            "name": "Cuba",
+            "value": "Cuba",
+            "sigla3": "CUB"
+        },
+        {
+            "id": 8,
+            "name": "Ecuador",
+            "value": "Ecuador",
+            "sigla3": "ECU"
+        },
+        {
+            "id": 9,
+            "name": "El Salvador",
+            "value": "El Salvador",
+            "sigla3": "SLV"
+        },
+        {
+            "id": 10,
+            "name": "Estados Unidos",
+            "value": "Estados Unidos",
+            "sigla3": "USA"
+        },
+        {
+            "id": 11,
+            "name": "Guatemala",
+            "value": "Guatemala",
+            "sigla3": "GTM"
+        },
+        {
+            "id": 12,
+            "name": "Haiti",
+            "value": "Haiti",
+            "sigla3": "HTI"
+        },
+        {
+            "id": 13,
+            "name": "Honduras",
+            "value": "Honduras",
+            "sigla3": "HND"
+        },
+        {
+            "id": 14,
+            "name": "Mexico",
+            "value": "Mexico",
+            "sigla3": "MEX"
+        },
+        {
+            "id": 15,
+            "name": "Nicaragua",
+            "value": "Nicaragua",
+            "sigla3": "NIC"
+        },
+        {
+            "id": 16,
+            "name": "Panama",
+            "value": "Panama",
+            "sigla3": "PAN"
+        },
+        {
+            "id": 17,
+            "name": "Paraguay",
+            "value": "Paraguay",
+            "sigla3": "PRY"
+        },
+        {
+            "id": 18,
+            "name": "Peru",
+            "value": "Peru",
+            "sigla3": "PER"
+        },
+        {
+            "id": 19,
+            "name": "Republica Dominicana",
+            "value": "República Dominicana",
+            "sigla3": "DOM"
+        },
+        {
+            "id": 20,
+            "name": "Uruguay",
+            "value": "Uruguay",
+            "sigla3": "URY"
+        },
+        {
+            "id": 21,
+            "name": "Venezuela",
+            "value": "Venezuela",
+            "sigla3": "VEN"
+        },
+        {
+            "id": 22,
+            "name": "España",
+            "value": "España",
+            "sigla3": "ESP"
+        }
+    ]
+}

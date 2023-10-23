@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "@storybook/builder-vite": "^7.4.6",
+    "@vitejs/plugin-react": "^4.1.0",
+    "turbo": "^1.10.15",
+    "vite": "^4.4.11"
+  },
+  "dependencies": {
+    "@storybook/addons": "^7.4.6",
+    "@storybook/manager-api": "^7.4.6",
+    "@storybook/theming": "^7.4.6",
+    "storybook-addon-designs": "^6.3.1"
+  }
+}
